@@ -1,0 +1,17 @@
+{
+  "1412950049364902040": {
+    "alert_channel_id": 1412950050476265563,
+    "alerts_sent": [
+      "C9-vs-NRG-FAKE",
+      "TEST-ALERT-15M",
+      "TEST-HOT-6M-AMER",
+      "TEST-MASTERS-10M",
+      "TEST-MASTERS-7M"
+    ],
+    "events_created": [
+      "TEST-ALERT-15M"
+    ],
+    "lead_minutes": 180,
+    "event_enabled": false
+  }
+}
